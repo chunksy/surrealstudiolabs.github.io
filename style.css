@@ -1,0 +1,21 @@
+/* General body styles */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+    background-color: #f4f4f4;
+    color: #333;
+}
+
+/* Header styles */
+h1 {
+    color: #000000;
+    text-align: Left;
+    margin-bottom: 28px;
+}
+
+/* Paragraph styles */
+p {
+    line-height: 1.6;
+    margin-bottom: 15px;
+}
