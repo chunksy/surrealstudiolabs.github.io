@@ -34,7 +34,7 @@ h1 {
 }
 
 .tab-button.active {
-    background-color: #4CAF50;
+    background-color: #000080;
 }
 
 /* Tab Content Styling */
@@ -58,7 +58,7 @@ h1 {
 }
 
 h2 {
-    color: #4CAF50;
+    color: #000080;
     margin-top: 0;
 }
 
