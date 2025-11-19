@@ -67,8 +67,8 @@ p {
     color: #555;
 }
 img {
-  max-width: 25%;
-  height: 25%;
+  max-width: 50%;
+  height: 50%;
 }
 
 .clearfix::after {
